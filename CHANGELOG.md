@@ -2,8 +2,6 @@
 
 User-facing changes for the public Microsoft Fabric Skills release.
 
-## [Unreleased]
-
 ## [0.3.16] - 2026-09-10
 
 ### Added
